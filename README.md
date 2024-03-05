@@ -8,3 +8,4 @@ Basic Structure
 1. run the spring boot
 2. lombok
 3. access mysql table data
+4. add ymal
